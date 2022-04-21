@@ -15,13 +15,6 @@
     font-size: 1.5rem;
 }
 
-/* Portfolio */
-.gallery img{
-    width: 250px;
-    height: 150px;
-    margin: 10px;
-}
-
 /* Contact */
 .input{
     width: 80%;
