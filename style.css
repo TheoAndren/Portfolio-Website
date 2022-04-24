@@ -127,6 +127,7 @@ html{
     display: flex;
     flex-direction: column;
     padding: 20px;
+    height: 800px;
 }
 .row{
     display: flex;
@@ -206,24 +207,25 @@ html{
 /* Portfolio v2 */
 
 .portfolio{
-    height:750px;
+    height:800px;
     background-color: #7e7d7d;
     padding: 2% 10% 0px 10%;
     justify-content: center;
-    margin-bottom: 30px;
+    
 
 }
 .portfolio-text p:nth-child(1){
     font-family: calibri;
     font-weight: bold;
     color: #131212;
-    font-size: 30px;
+    font-size: 50px;
     line-height: 0px;
 }
 .portfolio-text p:nth-child(2){
     font-family: calibri;
     color: #161515;
     margin-top: 25px;
+    font-size: 20px;
     
     
 }
