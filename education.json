@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "school": "Campus Varberg",
+      "course": "Systemutvecklare .NET",
+      "startdate": "Semptember 2021",
+      "enddate": "Current: Est 2023",
+      "description": "På Campus Varberg lär jag mig det mesta om systemutveckling som OOP, Agilt arbete, Databasutveckling, jobba med apier och mycket mer."
+    },
+    {
+      "id": 2,
+      "school": "Elof Lindälv",
+      "course": "Ekonomilinjen, med inrikting jurudik",
+      "startdate": "September 2016",
+      "enddate": "Juni 2019",
+      "description": "Gymnasieutbildning där jag valde som inriktning jurudik och även ledarskap och marknadsföringar. Jag valde också till webbutveckling som en extrakurs."
+    }
+  ]

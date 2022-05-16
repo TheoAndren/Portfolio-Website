@@ -5,25 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="/css/style.css" />
     <link
       rel="stylesheet"
       media="screen and (max-width:800px)"
-      href="tablet.css"
+      href="/css/phone.css"
     />
     <link
       rel="stylesheet"
       media="screen and (max-width:530px)"
-      href="phone.css"
+      href="/css/tablet.css"
     />
   </head>
   <body>
+    <script src="./js/script.js"></script>
+    <div id="overlay" onkeydown="easterEgg(event)">
+      <div id="easter">
+      </div>
+    </div>
     <nav class="navbar">
       <ul>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About Me</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#education">Education</a></li>
+        <li><a href="#education">Education & Work</a></li>
         <li><a href="#contact">Contact Me</a></li>
       </ul>
     </nav>
@@ -34,7 +39,7 @@
           HEYA, I AM<br />
           THEO ANDRÉN
         </h1>
-        <button class="btn">Hire Me</button>
+        <button onclick="darkButton()"class="btn">Hire Me</button>
       </div>
     </section>
 
@@ -147,32 +152,22 @@
     </section>
 
     <section id="education">
-      <h1 class="headings">EDUCATION</h1>
-      <div class="row">
-        <div class="box">
-          <img src="images/school.png" alt="Emoji picture of school" />
-          <h1 class="headings">Systemutvecklare .Net</h1>
-          <p>
-            Här kommer mina alla fina utbildningar och skolor att listas så jag
-            kan skryta om hur smart jag är wohoho,,, or not
-          </p>
+      <h1 class="headings">Education & Work Experience</h1>
+      <div class="container">
+        <div class="top">
         </div>
-        <div class="box">
-          <img src="images/school.png" alt="Emoji picture of school" />
-          <h1 class="headings">Ekonomi & Ledarskap</h1>
-          <p>
-            Här kommer mina alla fina utbildningar och skolor att listas så jag
-            kan skryta om hur smart jag är wohoho,,, or not
-          </p>
+        <div class="content">
+          <div class="cols">
+            <div class="col1">
+              <div class="work"></div>
+            </div>
+            <div class="col2">
+              <div class="education"></div>
+            </div>
+          </div>
         </div>
-        <div class="box">
-          <img src="images/school.png" alt="Emoji picture of school" />
-          <h1 class="headings">Marknadsföring</h1>
-          <p>
-            Här kommer mina alla fina utbildningar och skolor att listas så jag
-            kan skryta om hur smart jag är wohoho,,, or not
-          </p>
-        </div>
+        <footer class="bottom"></footer>
+    
       </div>
     </section>
 

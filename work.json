@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "employer": "Lilla Laxen",
+      "workplace": "Kungsbacka",
+      "title": "Köksbiträde",
+      "startdate": "Februari 2017",
+      "enddate": "Maj 2019",
+      "description": "Jobbade med att laga och förbereda diverse maträtter och även lite kundservice med servering när det behövdes."
+    },
+    {
+      "id": 2,
+      "employer": "VTD",
+      "workplace": "VTD Kungsbacka",
+      "title": "Distributör",
+      "startdate": "Juli 2019",
+      "enddate": "Juli 2020",
+      "description": "Jag levererade tidningar, paket och brev till kunders brevlådor. Detta gjordes med bil och jobbtiderna var natt."
+    },
+    {
+      "id": 3,
+      "employer": "Spelfrossa",
+      "workplace": "Spelfrossa.gg",
+      "title": "Styrelseledamot & Ansvarig Esport",
+      "startdate": "April 2020",
+      "enddate": "Current",
+      "description": "Hos Spelfrossa så är mina ansvarsområden både att sitta med i styrelsen och vara med och ta större beslut om organisationen, men även att ta hand om Esport avdelningen och dess online turneringar och liknande."
+    }
+]
