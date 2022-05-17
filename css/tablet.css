@@ -8,18 +8,6 @@
 .heading{
     font-size: 2.5rem;
 }
-#education{
-    width: 60%;
-    justify-content: left;
-}
-#portfolio{
-    width: 100%;
-}
-.box-container{
-    width: 40%;
-    height: 100%;
-    flex-direction: column;
-}
 /* About */
 #pic{
     flex-direction: column;
