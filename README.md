@@ -14,7 +14,15 @@ anpassningsbart på andra skärmar.
 
 Jag har också testat i princip alla mina funktioner jag använder på sidan caniuse.com och jag har även kört lighthouse tester för både pc och mobil som jag kommer posta bilder på nedan. Där har jag fått goda resultat. 
 
+---------------------------------------------------------------------
+
+
 LIGHTHOUSE SCORE PC
 ![Lighthouse Score PC](https://user-images.githubusercontent.com/91311313/168736813-5e456510-a25d-4fdc-a1e3-bc4b941462cc.png)
+
+
+----------------------------------------------------------------------
+
+
 LIGHTHOUSE SCORE MOBILE
 ![Lighthouse mobile new](https://user-images.githubusercontent.com/91311313/168736872-c78db9ca-0922-4424-a778-48b037384748.png)
