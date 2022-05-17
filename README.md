@@ -6,11 +6,13 @@ VG Uppgift
 
 
 
-Jag använder taggar som bidar till en god semantik som header-tagg på min header/rubrik på hemsidan, nav-tagg på min meny och footer-tagg på min footer längst ner på sidan. Jag har också arbetat med section-taggar för att dela upp innehållet på ett bra sätt mellan header och footer. Men det är fortfarande väldigt mycket div taggar och allämnt lite rörlig för min smak nu men jag tycker det håller en stabil semantik ändå. 
+Jag använder taggar som bidar till en god semantik som header-tagg på min header/rubrik på hemsidan, nav-tagg på min meny och footer-tagg på min footer längst ner på sidan. Jag har också arbetat med section-taggar för att dela upp innehållet på ett bra sätt mellan header och footer. Men det är fortfarande väldigt mycket div taggar och allämnt lite rörlig för min smak nu men jag tycker det håller en stabil semantik ändå. Med tanke på webbplatstillgänglighet så har jag tänkt på det på ett par olika sätt. Jag har försökt tänka på hur läsbar texten är och kolla dom olika kontrasterna från bakgrunden och text. Jag har också gjort det tydligt för användaren att förstå var dem befinner sig på sidan genom att försöka ha olika färg på sidorna och att alltid ha en text där det står vilken sida användaren är på.
+En annan sak jag gjorde med tillgängligheten var att jag alltid skrev i tex "Profile picture of me" när jag la in en bild på sidan så att det är möjligt för alla personer att förstå vad det är som finns på sidan och för dessa som har diverse funktionsnedsättningar. Allt detta gör att jag har bra semantik och gör det lätt för läsarna av sidan att navigera sig och läsa mitt innehåll. Responsiviteten och anpassningen har jag också jobbat med mycket när jag har lagt in separat css filer för både phone och tablet med justeringar för innehållet så det är anpassat för dessa också. En sak jag inte hittade tiden till att göra var att lägga till en hamburgerbar vilket hade gjort det ännu bättre för en mobilanvändare. Dock när jag testade så funkade det ändå helt ok att komma åt menyn tack vare att den är ganska liten ändå. Men att lägga till hamburger bar är helt klart något som jag skulle vilja lägga till i framtiden för att det ska bli ännu bättre. 
 
 
 
-Jag har också testat i princip alla mina funktioner jag använder på sidan caniuse.com och jag har även kört lighthouse tester för både pc och mobil som jag kommer posta bilder på nedan. Där har jag fått goda resultat. 
+Jag har också testat i princip alla mina funktioner jag använder på sidan caniuse.com och jag har även kört lighthouse tester för både pc och mobil som jag kommer posta bilder på nedan. Där har jag fått väldigt goda resultat och det var några mindre ändringar som den rekommendera att jag gjorde. 
+Jag har också tänkt på att inte använda för mycket onödiga js funktioner eller bibiliotek för att just tänka på min kompatilitet och att allt ska funka på så många webbläsare som möjligt. Och det har jag lyckats bra med även om jag hade haft tiden hade jag gärna spicat upp sidan lite mer med lite coola js funktioner men det kommer till en annan gång. 
 
 ---------------------------------------------------------------------
 
